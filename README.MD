@@ -8,4 +8,5 @@ These programs are written in C# 8.0 on .NET Framework 4.8 (Quaer) and .NET Core
 
 ## Installing dependencies
 > **Juxta**: .NET Core 3.1 Runtime + Prerequisites (For versions below Windows 7 see [this](https://github.com/dotnet/wpf/issues/2009))
+
 > **Quaer**: .NET Framework 4.8 Runtime
